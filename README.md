@@ -4,7 +4,7 @@ Overview
 This project was developed as part of an academic assignment while pursuing my Master’s degree in Data Science and Analytics at King Fahd University of Petroleum and Minerals (KFUPM). It reflects my individual effort to apply and deepen my understanding of regression modeling techniques using real-world data.
 
 Author
-This project was solely developed by Duaa Khalid Albedewi. All work—including data cleaning, exploratory analysis, feature engineering, model development, and performance evaluation—was completed independently as part of my learning process.
+This project was solely developed by Dewao. All work—including data cleaning, exploratory analysis, feature engineering, model development, and performance evaluation—was completed independently as part of my learning process.
 
 Purpose
 The main objectives of this project are to:

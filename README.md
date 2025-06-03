@@ -1,7 +1,7 @@
 Car Price Prediction – Personal Regression Project
 
 Overview
-This project was developed as part of an academic assignment while pursuing my Master’s degree in Data Science and Analytics at King Fahd University of Petroleum and Minerals (KFUPM). It reflects my individual effort to apply and deepen my understanding of regression modeling techniques using real-world data.
+This project was developed as part of an academic assignment while pursuing my Master’s degree in Data Science and Analytics. It reflects my individual effort to apply and deepen my understanding of regression modeling techniques using real-world data.
 
 Author
 This project was solely developed by Dewao. All work—including data cleaning, exploratory analysis, feature engineering, model development, and performance evaluation—was completed independently as part of my learning process.
@@ -18,6 +18,7 @@ Improve understanding of model evaluation metrics and data preprocessing workflo
 Dataset
 The dataset used in this project is publicly available on Kaggle and can be accessed at:
 🔗 Car Price Prediction Dataset – Kaggle
+https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/data
 
 The dataset includes attributes such as:
 
